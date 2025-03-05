@@ -1,2 +1,2 @@
 # BI-tools
-Projects created using Microsoft Excel, Power BI
+Projects created using Power BI
